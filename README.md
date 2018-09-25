@@ -89,5 +89,8 @@ This manner of displaying numerical data is called a [histogram](https://en.wiki
 
 * Write a class method, `.artist_count`, that returns a histogram similar to the one above, but for artists rather than genres. 
 
+## Does this need an update?
+ Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-ruby-class-variables-and-class-methods-lab/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-ruby-class-variables-and-class-methods-lab/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p class='util--hide'>View <a href='https://learn.co/lessons/ruby-class-variables-and-class-methods-lab'>Class Variables and Methods Lab</a> on Learn.co and start learning to code for free.</p>
 <p data-visibility='hidden'>PHRG Ruby Class Variables And Class Methods Lab</p>
